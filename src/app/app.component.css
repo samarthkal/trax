@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero-section {
+    height: 100vh;
+    color: #333;
+    padding: 0;
+background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; 
+  }
+  
+  .hero-section .row {
+    margin-right: 0; 
+    
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+  }
+  
+  .hero-section h2 {
+    font-size: 2.5rem;
+  }
+  
+  .hero-section .text-primary {
+    color: #00bcd4;
+  }
+  
+  .hero-section img {
+    border-radius: 10px;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .nav-link {
+    color: #333 !important;
+    font-weight: 500;
+    font-size: 1.2rem; 
+  }
+  
+  .nav-link:hover {
+    color: #00bcd4 !important;
+  }
+  
+  .dropdown-menu {
+    width: 600px;
+  }
+  
+  .mega-menu .row {
+    padding: 20px;
+  }
+  
+.btn {
+    margin-right: 10px; /* Add margin between buttons */
+  }
+  
